@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nauman-javed&label=Profile%20views&color=0e75b6&style=flat" alt="nauman-javed" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ce740.web.app/](https://portfolio-ce740.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vert-theta-97.vercel.app/)
 
 - 📫 How to reach me **naumanj841@gmail.com**
 
